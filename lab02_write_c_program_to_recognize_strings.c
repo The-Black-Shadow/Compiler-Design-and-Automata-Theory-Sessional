@@ -1,3 +1,5 @@
+// lab02(Write a C program to recognize strings under 'a', 'a*b+', 'abb').c
+
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
